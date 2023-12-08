@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Face-Recognition-Brain-App/static/css/main.6170c43b.css",
+    "main.js": "/Face-Recognition-Brain-App/static/js/main.af8eb7dc.js",
+    "index.html": "/Face-Recognition-Brain-App/index.html",
+    "main.6170c43b.css.map": "/Face-Recognition-Brain-App/static/css/main.6170c43b.css.map",
+    "main.af8eb7dc.js.map": "/Face-Recognition-Brain-App/static/js/main.af8eb7dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6170c43b.css",
+    "static/js/main.af8eb7dc.js"
+  ]
+}
